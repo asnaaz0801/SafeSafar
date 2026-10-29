@@ -1,0 +1,9 @@
+packages:
+  - '.'
+
+pmOnFail: ignore
+
+minimumReleaseAgeExclude:
+  - '@next/*'
+  - next
+
